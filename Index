@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sovereign Link Ltd — Personal safety and AI systems</title>
+<meta name="description" content="Sovereign Link Ltd builds Sovereign Guard, a personal safety app, and Sovereign Chat, an AI assistant.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="wrap">
+  <header>
+    <div class="brand">
+      <span class="beacon"></span>
+      Sovereign Link <span class="ltd">Ltd</span>
+    </div>
+    <nav>
+      <a href="index.html" class="active">Home</a>
+      <a href="safety.html">Sovereign Guard</a>
+      <a href="chat.html">Sovereign Chat</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="eyebrow">Two systems, one build principle</div>
+    <h1>Software that watches out for you.</h1>
+    <p class="lede">Sovereign Link builds tools people rely on in moments that matter — from personal safety on the street to a clear head when you need to think something through.</p>
+  </section>
+
+  <section class="panels">
+    <a href="safety.html" class="panel safety">
+      <div class="status"><span class="dot"></span> Personal safety</div>
+      <h2>Sovereign Guard</h2>
+      <p>A safety app built for the moments you hope never come — fast alerts, location sharing, and a calm way to get help.</p>
+      <span class="cta">View app</span>
+    </a>
+
+    <a href="chat.html" class="panel ai">
+      <div class="status"><span class="dot"></span> AI assistant</div>
+      <h2>Sovereign Chat</h2>
+      <p>A grounded, responsive AI assistant for everyday questions, quick analysis, and things you'd rather talk through than search for.</p>
+      <span class="cta">View app</span>
+    </a>
+  </section>
+
+  <footer>
+    <div class="copy">© 2026 Sovereign Link Ltd</div>
+    <div class="foot-links">
+      <a href="#">Privacy</a>
+      <a href="#">Contact</a>
+    </div>
+  </footer>
+</div>
+
+</body>
+</html>
