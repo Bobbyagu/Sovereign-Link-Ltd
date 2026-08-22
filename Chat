@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sovereign Chat — AI assistant by Sovereign Link Ltd</title>
+<meta name="description" content="Sovereign Chat is a grounded, responsive AI assistant for everyday questions and quick thinking.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="page-ai">
+
+<div class="wrap">
+  <header>
+    <div class="brand">
+      <span class="beacon"></span>
+      Sovereign Link <span class="ltd">Ltd</span>
+    </div>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="safety.html">Sovereign Guard</a>
+      <a href="chat.html" class="active">Sovereign Chat</a>
+    </nav>
+  </header>
+
+  <section class="product-hero">
+    <a href="index.html" class="back-link">← All products</a>
+    <div class="tag"><span class="dot"></span> AI assistant</div>
+    <h1>A clear head, in your pocket.</h1>
+    <p class="lede">Sovereign Chat is an AI assistant built for straight answers — quick analysis, honest reasoning, and a second opinion whenever you need to think something through.</p>
+  </section>
+
+  <section class="features">
+    <div class="feature">
+      <div class="idx">01</div>
+      <h3>Natural conversation</h3>
+      <p>Talk to Sovereign Chat the way you'd talk to a sharp friend — no rigid commands to memorize.</p>
+    </div>
+    <div class="feature">
+      <div class="idx">02</div>
+      <h3>Image understanding</h3>
+      <p>Share a photo and ask about it — Sovereign Chat reads and reasons about what's in front of you.</p>
+    </div>
+    <div class="feature">
+      <div class="idx">03</div>
+      <h3>Quick presets</h3>
+      <p>One-tap prompts for the things you ask most, so common questions take a tap, not a typed-out message.</p>
+    </div>
+    <div class="feature">
+      <div class="idx">04</div>
+      <h3>Custom themes</h3>
+      <p>Switch the look of your conversation to match your mood — from dark console to deep emerald.</p>
+    </div>
+  </section>
+
+  <div class="download-band">
+    <div class="label">Available on Android — Play Store listing coming soon</div>
+    <a href="#" class="btn">Get notified →</a>
+  </div>
+
+  <footer>
+    <div class="copy">© 2026 Sovereign Link Ltd</div>
+    <div class="foot-links">
+      <a href="#">Privacy</a>
+      <a href="#">Contact</a>
+    </div>
+  </footer>
+</div>
+
+</body>
+</html>
