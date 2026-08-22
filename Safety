@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sovereign Guard — Personal safety app by Sovereign Link Ltd</title>
+<meta name="description" content="Sovereign Guard is a personal safety app for fast alerts, live location sharing, and calm help when it matters.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="page-safety">
+
+<div class="wrap">
+  <header>
+    <div class="brand">
+      <span class="beacon"></span>
+      Sovereign Link <span class="ltd">Ltd</span>
+    </div>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="safety.html" class="active">Sovereign Guard</a>
+      <a href="chat.html">Sovereign Chat</a>
+    </nav>
+  </header>
+
+  <section class="product-hero">
+    <a href="index.html" class="back-link">← All products</a>
+    <div class="tag"><span class="dot"></span> Personal safety</div>
+    <h1>Help, without the hesitation.</h1>
+    <p class="lede">Sovereign Guard is built for the seconds that matter — one motion to alert people you trust, share exactly where you are, and get help moving your way.</p>
+  </section>
+
+  <section class="features">
+    <div class="feature">
+      <div class="idx">01</div>
+      <h3>One-touch alert</h3>
+      <p>Send an alert to your trusted contacts in one motion, no fumbling through menus when it counts.</p>
+    </div>
+    <div class="feature">
+      <div class="idx">02</div>
+      <h3>Live location sharing</h3>
+      <p>Share real-time location with people you choose, for as long as you choose, and nothing beyond that.</p>
+    </div>
+    <div class="feature">
+      <div class="idx">03</div>
+      <h3>Silent mode</h3>
+      <p>Trigger help discreetly when speaking up isn't an option — no sound, no obvious screen change.</p>
+    </div>
+    <div class="feature">
+      <div class="idx">04</div>
+      <h3>Trusted circle</h3>
+      <p>Choose exactly who gets notified. Sovereign Guard never contacts anyone outside your list.</p>
+    </div>
+  </section>
+
+  <div class="download-band">
+    <div class="label">Available on Android — Play Store listing coming soon</div>
+    <a href="#" class="btn">Get notified →</a>
+  </div>
+
+  <footer>
+    <div class="copy">© 2026 Sovereign Link Ltd</div>
+    <div class="foot-links">
+      <a href="#">Privacy</a>
+      <a href="#">Contact</a>
+    </div>
+  </footer>
+</div>
+
+</body>
+</html>
